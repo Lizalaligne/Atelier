@@ -1,5 +1,5 @@
 # Atelier
 =====================
 
-Travaux en commun avec Liz à la page
+Travaux en commun avec Liz à la Ligne
 
